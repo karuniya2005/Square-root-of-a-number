@@ -14,17 +14,20 @@ To write a program to find the square root of a number.
 4. Calculate  number = 0.5 * (number + a / number) for 100 iterations.
 5. Return number
 
-## Program:
 ```
 /*
 Program to find the square root for the given number(newton's method) using function.
-Developed by: 
-RegisterNumber:  
+Developed by: KARUNIYA M
+RegisterNumber:  212223240068
 */
 ```
 
+## Program:
+![Screenshot 2024-03-23 084935](https://github.com/drgbhuvaneswari/Square-root-of-a-number/assets/161425769/0227e8a9-6bf9-4066-8598-0638551930be)
+
 ## Output:
 
+![Screenshot 2024-03-23 084945](https://github.com/drgbhuvaneswari/Square-root-of-a-number/assets/161425769/83782793-071b-4e00-8213-2e51cc92fbc4)
 
 
 ## Result:
